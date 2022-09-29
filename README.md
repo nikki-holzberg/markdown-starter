@@ -2,7 +2,7 @@
 
 Just an example of markdown.
 
-[Edit on GitPod!](https://gitpod.io/#https://github.com/anglinb/markdown-starter)
+[Edit on GitPod!](https://gitpod.io/#https://github.com/nikki-holzberg/markdown-starter)
 
 --- 
 
